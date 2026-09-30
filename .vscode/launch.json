@@ -1,0 +1,52 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "testgame.Main",
+      "projectName": "POO_b374c282"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "testGame.Main",
+      "projectName": "POO_b374c282"
+    },
+    {
+      "type": "java",
+      "name": "exercicoPOO1",
+      "request": "launch",
+      "mainClass": "exercicio1.exercicoPOO1",
+      "projectName": "POO_b374c282"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "exercicio2.Main",
+      "projectName": "POO_b374c282"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/meu00/OneDrive/Documentos/UTFPR_Disciplinas_Prog/4°Periodo/POO/exercicio2",
+      "program": "c:/Users/meu00/OneDrive/Documentos/UTFPR_Disciplinas_Prog/4°Periodo/POO/exercicio2/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
